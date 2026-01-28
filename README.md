@@ -153,9 +153,10 @@ Walmart-Sales-Prediction/
 ├── internproject.ipynb
 ├── README.md
 ├── requirements.txt
-└── data/
-    ├── train.csv
-    ├── features.csv
-    └── stores.csv
+├── train.csv
+├── features.csv
+└── stores.csv
+
+   
 
 
